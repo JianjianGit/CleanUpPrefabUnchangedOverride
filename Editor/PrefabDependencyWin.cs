@@ -386,7 +386,7 @@ namespace Editor.Prefab
             [HideInInspector]
             public List<PropertyModification> modifications = new List<PropertyModification>();
 
-            [ListDrawerSettings(IsReadOnly = true, ShowFoldout = false)]
+            [ListDrawerSettings(IsReadOnly = true)]
             public List<OverrideInfo> overrideInfoList = new List<OverrideInfo>();
 
             public void AddOverrideInfo(string path, string propertyPath, Type componentType, int componentIndex)
