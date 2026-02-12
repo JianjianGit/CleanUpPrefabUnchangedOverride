@@ -1,0 +1,7 @@
+{
+    "name": "com.jj.cleanupprefabunchangedoverride",
+    "displayName": "CleanUpPrefabUnchangedOverride",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "Clean up prefab unchanged override to Unity."
+}

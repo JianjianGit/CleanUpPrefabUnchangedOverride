@@ -1,0 +1,2 @@
+# CleanUpPrefabUnchangedOverride
+保存prefab时，清理没有变化的Override
